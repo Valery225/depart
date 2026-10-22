@@ -1,0 +1,11 @@
+Bonjour Awa, voici le rapport de vos dépenses :
+- Budget initial : 50000 FCFA
+- Dépenses totales : 38300 FCFA
+- Budget restant : 11700 FCFA
+- Budget respecté : True 
+
+Bonjour Awa, voici le rapport de vos dépenses :
+- Budget initial : 30000 FCFA
+- Dépenses totales : 38300 FCFA
+- Budget restant : -8300 FCFA
+- Budget respecté : False
